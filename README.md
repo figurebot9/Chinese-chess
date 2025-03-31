@@ -1,2 +1,29 @@
-# Chinese-chess
-Chinese chess
+# 中国象棋游戏
+
+这是一个使用Python和Pygame开发的中国象棋游戏。
+
+## 功能特点
+
+- 完整的中国象棋规则实现
+- 图形化界面
+- 双人对战模式
+
+## 安装说明
+
+1. 确保已安装Python 3.8或更高版本
+2. 安装依赖包：
+   ```
+   pip install -r requirements.txt
+   ```
+
+## 运行游戏
+
+```
+python main.py
+```
+
+## 游戏控制
+
+- 使用鼠标点击选择棋子
+- 点击目标位置移动棋子
+- ESC键退出游戏 
